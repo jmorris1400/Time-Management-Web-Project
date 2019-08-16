@@ -1,0 +1,35 @@
+.header {
+	background-color: #9D9FA1;
+	padding: 20px;
+	text-align: left;
+}
+/* Create three unequal columns that floats next to each other */
+.column {
+	float: left;
+	padding: 10px;
+}
+
+/* Left and right column */
+.column.left {
+	background-color: #f1f1f1;
+	width: 15%;
+	height: 700px
+}
+
+/* Middle column */
+.column.right {
+	margin-top: 20px;
+	margin-left: 130px;
+	width: 60%;
+}
+.select {
+  color:white;
+  background-color: Black;
+}
+.title {
+  color:black;
+  background-color: #f1f1f1;
+  height: 40px;
+  text-align: center;
+  padding: 20px;
+}

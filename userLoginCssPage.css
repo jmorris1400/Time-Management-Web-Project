@@ -1,0 +1,63 @@
+
+*{
+		margin:0;
+		padding:0;
+	}
+/*Disaster Recovery Application : Timecard Submission blcock*/	
+.header {
+background-color:#DCDCDC;
+padding:20px;
+width: 100%;
+}
+
+.column.left {
+	margin-right;
+	padding-top: 17px;
+	padding-left:40px;
+	background-color: #f1f1f1;
+	width: 23%;
+	height: 700px;
+} 
+
+/*example name */
+.header2 {
+	text-align: right;
+
+}
+
+/*time sheet sub*/
+.sheet {
+	margin-top: 10px;
+	padding-bottom: 40px;
+background-color: #f1f1f1;
+  width: 100%;
+}
+/* time card sub */
+.New.time{
+	padding-right;
+	padding-top: 200px;	
+}
+#mytimesheet{
+	height: 40px;
+	padding-top:90px;
+	padding-left: 280px;
+	width: 50%;
+ 
+}
+
+.column { 
+	float: left;
+}
+
+/* the rows */
+.column.right {
+	color:white;
+  background-color: black;
+	background-color: white;
+	margin-left: 5px;
+	width: 60%;
+}
+.select {
+  color:white;
+  background-color: black;
+}

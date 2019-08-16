@@ -1,0 +1,79 @@
+
+a{
+	text-decoration: none;
+	color:darkgreen;
+	}
+
+
+	/*Disaster Recovery Application : Timecard Submission blcock*/
+*{
+		margin:0;
+		padding:0;
+	}
+.header {
+background-color:#DCDCDC;
+padding:20px;
+width: 100%;
+}
+
+/*tome card submission */
+.column.left {
+	float: 	left;	
+	text-decoration: none;
+	padding-top: 17px;
+	padding-left:40px;
+	background-color: #f1f1f1;
+	width: 100px; /* width; takes unlimited space. left to right
+	how much space on the page you want everything
+	classified in your div to take.*/
+	height: 700px;/* for the colors*/
+} 
+
+/*example name */
+.header2 {
+	text-align:center;
+	width: 170%;
+
+}
+
+
+/*time sheet sub*/
+.sheet {
+float:center;	
+margin-top: 10px;
+padding-bottom: 40px;
+background-color: #f1f1f1;
+width: 100%;
+
+}
+/* time card sub */
+/* float: right; how you get things on the same line */
+/* Create three unequal columns that floats next to each other */
+
+
+/*the link enter new... */
+#mytimesheet{
+	height: 40px;
+	padding-top:90px;
+	text-align: center;
+	width: 40%;
+	padding-left: 70px;
+
+}
+
+/* more direct way of changing text  */
+.select {
+color:white;
+background-color: black;
+line-height: 2;
+width: 48%;
+float: left;
+padding-left: 180px;
+
+
+}
+
+.wholepage{
+	width: 200%;
+
+}
